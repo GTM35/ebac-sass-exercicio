@@ -1,0 +1,15 @@
+@use "../variables/colors.scss";
+
+body {
+  background-color: colors.$bgSecundario;
+}
+
+.container {
+  max-width: 1024px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+section {
+  padding: 56px 0;
+}
